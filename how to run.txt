@@ -1,0 +1,14 @@
+go to browser type localhost/phpmyadmin.
+create a database and name it to 'regform'.
+Now extract the files and place it in c:/xampp/htdocs
+Now import the database in phpmyadmin given in file.
+
+
+
+Admin
+email: bilalzafar.cs@gmail.com
+password: 1234
+
+user
+bilal@gmail.com	
+1234
